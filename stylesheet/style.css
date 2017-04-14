@@ -1,0 +1,34 @@
+.board-container{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  align-content: flex-end;
+  width: 50%;
+}
+
+.button-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.box {
+  background-color: magenta;
+  color: white;
+  padding: 15px 32px;
+  margin: auto;
+  }
+
+#reset
+#selection{}
+.selction-container{}
+#timer{}
+.timer-container{}
+.timer{}
+.submit-button{}
+.clear-button{}
+.button{}
+.row{}
+.rules-container{}
+.rules{}
+.score-rules{}
+#score{}
